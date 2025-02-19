@@ -33,7 +33,7 @@
 
 ### ✨ Recent Projects:
 
-🔗 **[Palindrome Checker](https://github.com/CodeMasterAshish/PalindromeChecker)** – For fun check a number is palindrome or not.
+🔗 **[Palindrome Checker](https://github.com/CodeMasterAshish/Forms)** – For fun check a number is palindrome or not.
 🔗 **[To Do List](https://github.com/CodeMasterAshish/todo-list)** –To do list  description  
 This is for me to remember the task.
 🔗 **[Portfolio Website](https://github.com/AshishJha/Portfolio)** – My personal portfolio showcasing my work  
